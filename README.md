@@ -39,6 +39,7 @@ The deep neural network consists of the following:
 ### Data Description
 - The dataset consists of keypoints extracted from images of yoga poses.
 - Each sample includes 17 keypoints (x, y coordinates) and a corresponding pose label.
+- dataset link: https://www.kaggle.com/datasets/ujjwalchowdhury/yoga-pose-classification/data
 
 ### Data Preprocessing
 - Normalized coordinates relative to image dimensions.
